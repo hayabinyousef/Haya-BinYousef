@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello I’m Haya<br><br>I’m a Computer Science student passionate about<br>Machine Learning , Data Analysis and problem-solving.<br><br>- Strong foundation in Python & C#<br>- Experience with data manipulation and visualization<br>- Currently building ML & data-driven projects<br><br>Tech Stack:<br>- Python, C#, SQL, Data analysis,Model Training<br>- Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook<br>- Git & GitHub<br><br>Vision:<br>Turning data into insights and ideas into intelligent systems
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Haya-BinYousef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ha.binyousef@gmail.com) 
 
