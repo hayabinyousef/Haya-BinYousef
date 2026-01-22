@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I’m Haya<br><br>I’m a Computer Science student passionate about<br>Artificial Intelligence , Data Analysis and problem-solving.<br><br>- Strong foundation in Python & C#<br>- Experience with data manipulation and visualization<br>- Currently building ML & data-driven projects<br><br>Tech Stack:<br>- Python, C#, SQL, Data analysis,Model Training<br>- Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook<br>- Git & GitHub<br><br>Vision:<br>Turning data into insights and ideas into intelligent systems
+Hello I’m Haya<br><br>I’m a Computer Science student passionate about<br>Machine Learning , Data Analysis and problem-solving.<br><br>- Strong foundation in Python & C#<br>- Experience with data manipulation and visualization<br>- Currently building ML & data-driven projects<br><br>Tech Stack:<br>- Python, C#, SQL, Data analysis,Model Training<br>- Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook<br>- Git & GitHub<br><br>Vision:<br>Turning data into insights and ideas into intelligent systems
 
 
 ## 🌐 Socials:
